@@ -1,0 +1,20 @@
+# Archivos generados automáticamente
+node_modules/
+
+# Archivos y directorios específicos de entorno de desarrollo
+.env
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de configuración del sistema
+.svn/
+.idea/
+.vscode/
+
+# Archivos de construcción y directorios de salida
+/dist/
+/build/
